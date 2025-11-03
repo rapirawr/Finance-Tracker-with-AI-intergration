@@ -16,7 +16,7 @@ Aplikasi pelacak keuangan pribadi berbasis konsol Python yang terintegrasi denga
 
 | Teknologi | Keterangan |
 | :--- | :--- |
-| **Bahasa** | Python 3.x |
+| **Bahasa** | Python |
 | **AI/API** | `google-genai` (Gemini 2.5 Flash Model) |
 | **Keamanan** | `python-dotenv` |
 | **Antarmuka** | Konsol/Terminal dengan Kode Warna ANSI |
@@ -29,16 +29,16 @@ Aplikasi pelacak keuangan pribadi berbasis konsol Python yang terintegrasi denga
 ### Prasyarat
 
 Pastikan Anda telah menginstal:
-1.  **Python 3.x**
+1.  **Python 3.14**
 2.  Akses ke Terminal/Command Prompt.
 
 ### Langkah-langkah Instalasi
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/rapirawr/Finance-Tracker-with-AI-intergration.git](https://github.com/rapirawr/Finance-Tracker-with-AI-intergration.git)
+    git clone https://github.com/rapirawr/Finance-Tracker-with-AI-intergration
     ```
-    ```
+    ```bash
     cd Finance-Tracker-with-AI-intergration
     ```
 
